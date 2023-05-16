@@ -37,4 +37,5 @@ Next steps are to categorize the outcome variable, Valence, into four classes (l
 
 - Link to notebook: https://github.com/ChristineNoelle/Capstone-Exploratory-Analysis/blob/a3a9a5f2c07bdf1a229fa8d240877b1b19369940/Capstone%20Exploratory%20Data%20Analysis.ipynb)
 
+- Link to data set: https://www.kaggle.com/code/vatsalmavani/music-recommendation-system-using-spotify-dataset/input
 ##### Contact and Further Information: Christine – noellecmr@yahoo.com
